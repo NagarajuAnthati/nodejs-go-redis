@@ -181,8 +181,8 @@ route:
 receivers:
 - name: 'slack-notifications'
   slack_configs:
-  - api_url: 'https://hooks.slack.com/services/T00000000/B00000000/XXXXXXXXXXXXXXXXXXXXXXXX'
-    channel: '#alerts'
+  - api_url: 'https://hooks.slack.com/services/XXXX/XXXX/XXXXXXXXXXXXXXXXXXXXXXXX'
+    channel: '#all-sredevops'
 ```
 
 ### **4.3 Apply Alert Rules**
